@@ -1,6 +1,5 @@
 # Woodcutting-Job-QBCore
 OverTrue RolePlay Woodcutting-Job
-# Note
 
 [![Scrapman-job](https://img.shields.io/badge/Lua-Fivem-orange)](https://img.shields.io/badge/Lua-Fivem-orange)
 # Note:
