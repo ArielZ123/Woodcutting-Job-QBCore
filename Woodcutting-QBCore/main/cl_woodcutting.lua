@@ -84,7 +84,7 @@ end)
 
 -- harvest location
 Citizen.CreateThread(function()
-	for k,v in pairs(Trees) do
+	for k in pairs(Trees) do
 		local harvest_blip = AddBlipForCoord(Trees[k].x, Trees[k].y, Trees[k].z)
 
 		SetBlipSprite(harvest_blip, 153)
